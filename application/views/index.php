@@ -120,7 +120,7 @@
                                             <span>/</span>
                                             <span>04</span>
                                         </h6>
-                                        <h1 class="fx-hero-1-slider-item-title fx-heading-1 text-uppercase " data-txaa-split-text-1>Innovative Solutions for Modern Industries .....</h1>
+                                        <h1 class="fx-hero-1-slider-item-title fx-heading-1 text-uppercase " data-txaa-split-text-1>Innovative Solutions for Modern Industries .....1234</h1>
                                         <p class="fx-hero-1-slider-item-pera fx-para-1 has-clr-white fix"><span class="d-inline-block">Cutting-Edge Industrial Solutions to Elevate Your Manufacturing and Production Capabilities Efficiently</span></p>
 
                                         <div class="fx-hero-1-slider-item-btn fix">
