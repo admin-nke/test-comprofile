@@ -1,0 +1,85 @@
+# Mengabaikan seluruh isi folder 'application'
+application/*
+
+# Kecualikan subfolder tertentu agar tetap terbaca
+!application/controllers/
+
+# Kecualikan semua file di dalam 'application/controllers'
+!application/controllers/**
+
+# Kecualikan subfolder tertentu agar tetap terbaca
+!application/models/
+
+# Kecualikan semua file di dalam 'application/models'
+!application/models/**
+
+# application/views/phpqrcode/*
+
+# Kecualikan subfolder tertentu agar tetap terbaca
+!application/views/
+
+# Kecualikan semua file di dalam 'application/views'
+!application/views/**
+# Kecualikan file index.php di application/views/index.php
+!application/views/index.php
+
+# Kecualikan semua file di dalam 'application/config'
+!application/config/
+application/config/*.php
+application/config/*.html
+application/config/*.tmp
+application/config/*.json
+
+# Kecualikan file routes.php di config
+!application/config/routes.php
+
+# Mengabaikan seluruh isi folder 'assets/'
+assets/
+
+# Kecualikan subfolder tertentu agar tetap terbaca
+!assets/css/custom/
+
+# Kecualikan semua file di dalam 'assets/css/custom'
+!assets/css/custom/**
+
+# Mengabaikan seluruh isi folder assets/js
+assets/js/*
+
+# Kecualikan subfolder tertentu agar tetap terbaca
+!assets/js/custom/
+
+# Kecualikan semua file di dalam 'assets/js/custom'
+!assets/js/custom/**
+
+cgi-bin/
+import_excel/
+mail_attachment/
+system/
+uploads/
+vendor/
+**/phpspreadsheet/**
+**/PHPExcel/**
+**/phpmailer/** */
+node_modules/*
+
+# Mengabaikan file dengan ekstensi tertentu
+.htaccess
+composer.json
+composer.lock
+package-lock.json
+package.json
+contributing.md
+error_log
+# index.php
+/index.php
+index_3.0.php
+*.txt
+*.zip
+readme.rst
+*.bak
+*.dat
+*.log
+*.sql
+*.nb3
+*.rar
+*.png
