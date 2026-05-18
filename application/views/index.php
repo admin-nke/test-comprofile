@@ -70,6 +70,14 @@
             .img-cover .direktur-k{
                 object-position: right;
             }
+            .fix-header {
+                position: fixed !important;
+                top: 0;
+                left: 0;
+                right: 0;
+                width: 100%;
+                z-index: 999;
+            }
         </style>
 
     </head>
