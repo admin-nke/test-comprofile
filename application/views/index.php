@@ -108,7 +108,7 @@
                         <div class="swiper-slide">
                             <div class="fx-hero-1-slider-item">
                                 <div class="fx-hero-1-slider-item-img img-cover fix">
-                                    
+                                    testtt
                                     <video class="plyvideo" autoplay="" loop="" muted="" src="<?php echo base_url(); ?>assets/img/hero/banner-landing-3.mp4"></video>
                                 </div>
                                 <div class="container fx-container-1">
