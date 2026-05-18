@@ -19,59 +19,6 @@
         <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/magnific-popup.css">
         <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/main.css">
 
-        <style>
-            .header-logo img{
-                width: 200px;
-                max-width: none;
-            }
-
-            .nav-top-1{
-                background: #144DFF;
-            }
-
-            .header-logo.fx-header-1-main {
-                background-color: rgb(255, 255, 255);
-            }
-
-            .main-navigation .navbar-nav li:not(:last-child){
-                margin-right: 15px;
-            }
-
-            .fx-header-1-main{
-                padding-left: 20px;
-            }
-
-            .fx-services-1-area.services-1{
-                background: #134CFE;
-                padding-top: 150px;
-            }
-
-            .fx-footer-1-logo{
-                max-width: 300px;
-            }
-
-            .fx-footer-1-area{
-                box-shadow: -0.5px -0.5px 0.5px;
-                background: #FFFFFE;
-            }
-
-            .ukuran-font .fx-services-1-slider-item .item-title{
-                font-size: 18px;
-            }
-
-            .plyvideo.video-landing-1{
-                object-position: bottom;
-            }
-
-            .fx-footer-1-logo.footer-img{
-                display: flex;
-                padding-top: 20px;
-            }
-            .img-cover .direktur-k{
-                object-position: right;
-            }
-        </style>
-
     </head>
      
     <body class="fd-home-1" >
