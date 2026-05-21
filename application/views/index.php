@@ -79,9 +79,9 @@
                 z-index: 999;
             }
 			.class-test {
-				background-color: red;
-                color: white;
-                padding: 10px;
+				background-color: blue;
+				margin: 2px auto;
+				color: red;
 			}
         </style>
     </head>
