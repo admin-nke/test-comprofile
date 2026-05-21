@@ -80,6 +80,8 @@
             }
 			.class-test {
 				background-color: red;
+                color: white;
+                padding: 10px;
 			}
         </style>
     </head>
